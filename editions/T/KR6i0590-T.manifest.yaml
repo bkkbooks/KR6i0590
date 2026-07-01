@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6i0590/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0590/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利菩薩問菩提經論
+  identifiers:
+    krp: KR6i0590
+    cbeta: T26n1531
+    cbeta_old_id: T26n1531
+    authorityid: CA0003366
+    json_key: T1531
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1531.xml
+    old_id: T26n1531
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0590_000-T.yaml, hash: 'sha256:d0e328bceba83dc00a29a729cba4035ba83c4b0f652d322190ebf9b113b1aff5'}
+  - {seq: 1, filename: KR6i0590_001-T.yaml, hash: 'sha256:bb6d64752cf72026e86d7e53053c689be92a05eb5633924c922e19c89942764c'}
+  - {seq: 2, filename: KR6i0590_002-T.yaml, hash: 'sha256:09efdd2410fa5977136e307f5c2baf446969122bf6c4701e33bc89bf4f163faa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0590_000-T.markers.yaml, hash: 'sha256:ea98d58d361ed5c0540b0292702b760141e158f63b2a29c9500fc60b474c8c60'}
+  - {seq: 1, role: markers, filename: assets/KR6i0590_001-T.markers.yaml, hash: 'sha256:0e55447a81c78fa2f520490672e7fbab8467aca8570e41762b1753973325abe0'}
+  - {seq: 2, role: markers, filename: assets/KR6i0590_002-T.markers.yaml, hash: 'sha256:75ed4dbb090e7da676a4acef1fd018bff16c8d108238c0dc7b0d9c7d62ab58d9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0590_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6911
+  label: '文殊師利菩薩問菩提經論
+
+    卷上一名伽耶山頂經論'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0590_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5862
+  label: '文殊師利菩薩問菩提經論卷下
+
+    一名伽耶山頂經論'
+  type: juan
+  level: 1
+hash: sha256:3a02fe55d12577b98cefdc7e7a0a7a1569f06888a3881b034d6e59756953fff5

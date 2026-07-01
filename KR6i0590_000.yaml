@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0590/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利菩薩問菩提經論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1531.xml
+    old_id: T26n1531
+hash: sha256:d0e328bceba83dc00a29a729cba4035ba83c4b0f652d322190ebf9b113b1aff5
